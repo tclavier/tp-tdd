@@ -1,7 +1,7 @@
 # URLs des dépots gits
 
 * BAH AMADOU OURY :
-* BAUDOIN THIBAULT  :
+* BAUDOIN THIBAULT  : https://gitlab.com/Thibault45532/TDD.git
 * BAUDRY  OSCAR :
 * BELS  ALEXIS  :
 * BETTE GUILLAUME :
