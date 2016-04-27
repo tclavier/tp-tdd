@@ -24,4 +24,4 @@
 * MAGNIER BENJAMIN  :
 * STEENKISTE  JÉRÉMY  :
 * TIHIANINE ADEL  :
-* TRICART CLEMENT :
+* TRICART CLEMENT :https://gitlab.com/tricartc/TDD1.git
