@@ -13,7 +13,7 @@
 * DEBLOCK ADRIEN  :
 * DIAZ  RACHEL  :
 * DRODZINSKI  LAURINE :
-* DUVIVIER  ARNAUD  :
+* DUVIVIER  ARNAUD  : https://github.com/ArnaudDuvivier/TDD.git
 * FIEVET  JEREMY  :
 * GERARD  CYRIL :
 * GERME ROBIN :
